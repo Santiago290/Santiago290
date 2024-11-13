@@ -14,7 +14,7 @@ Soy un **Desarrollador Frontent** de Lima/Perú. Me gusta crear aplicaciones web
 - Explorando más sobre **Node.js** y sus frameworks.
 - Empezando a implementar **TypeScript** para aplicaciones mas robustas.
 
-##Puedes encontrarme aqui: 🎯
+## Puedes encontrarme aqui: 🎯
 - Mi Portafolio: [Rodev.com](https://santiago290.github.io/portRodev/)
 - Mi Correo: [santideza16@gmail.com](mailto:santideza16@gmail.com)
 - Mi Linkedin: [Linkedin](https://www.linkedin.com/in/santiago-rodrigo-deza-chest-44638817b)
